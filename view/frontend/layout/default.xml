@@ -6,4 +6,5 @@
         <referenceContainer name="before.body.end">
             <block template="Yashshah_BasicModule::footer.phtml"/>
         </referenceContainer>
+    </body>
 </page>
